@@ -11,7 +11,7 @@ Em tên là Trần Như Nguyện, mã số sinh viên B2203459 và là sinh viê
 Dự án này là một hệ thống quản lý bán hàng giúp theo dõi sản phẩm, đơn hàng và khách hàng trực tuyến. 
 Nó được xây dựng bằng **HTML, CSS, JavaScript, Node.js, PHP và MySQL**.
 ## 🌟 Giao diện chính
-![Thương hiệu](https://raw.githubusercontent.com/trannhunguyenb2203459/b2203459/main/images/thuong-hieu.jpg)
+![Thương hiệu](https://https://github.com/trannhunguyenb2203459/b2203459/main/images/thuong-hieu.jpg)
 
 
 
